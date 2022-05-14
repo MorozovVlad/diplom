@@ -1,0 +1,12 @@
+D:\diplom1\diplom1\bin\Debug\LampsDB.mdf
+D:\diplom1\diplom1\bin\Debug\LampsDB_log.ldf
+D:\diplom1\diplom1\bin\Debug\diplom1.exe.config
+D:\diplom1\diplom1\bin\Debug\diplom1.exe
+D:\diplom1\diplom1\bin\Debug\diplom1.pdb
+D:\diplom1\diplom1\obj\Debug\diplom1.csprojAssemblyReference.cache
+D:\diplom1\diplom1\obj\Debug\diplom1.Form1.resources
+D:\diplom1\diplom1\obj\Debug\diplom1.Properties.Resources.resources
+D:\diplom1\diplom1\obj\Debug\diplom1.csproj.GenerateResource.cache
+D:\diplom1\diplom1\obj\Debug\diplom1.csproj.CoreCompileInputs.cache
+D:\diplom1\diplom1\obj\Debug\diplom1.exe
+D:\diplom1\diplom1\obj\Debug\diplom1.pdb
